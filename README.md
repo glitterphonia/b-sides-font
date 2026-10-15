@@ -2,11 +2,14 @@
 
 ## about
 fan-made font based on charli xcx's handwriting
+
 instagram made a font based on her handwriting but the problem was the letters didnt connect so i made my own version with ligatures
+
 not affiliated with or endorsed by charli xcx
+
 no AI was used in this project
 
-<img width="2048" height="2048" alt="b-sides font sample" src="https://github.com/user-attachments/assets/d79df82f-ffc0-4feb-91a0-d6c86bef0878" />
+<img width="1024" height="1024" alt="b-sides font sample" src="https://github.com/user-attachments/assets/d79df82f-ffc0-4feb-91a0-d6c86bef0878" />
 
 ## to install the font:
 - download the .otf file
