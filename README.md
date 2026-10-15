@@ -6,6 +6,8 @@ instagram made a font based on her handwriting but the problem was the letters d
 not affiliated with or endorsed by charli xcx
 no AI was used in this project
 
+![b-sides font sample](b-sides%20font%20sample.png)
+
 ## to install the font:
 - download the .otf file
 - double-click the file
